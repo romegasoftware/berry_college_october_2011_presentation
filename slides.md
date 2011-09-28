@@ -19,11 +19,12 @@ Our team is currently comprised of two developers, two designers, an office mana
 What Do We Do?
 ==============
 
-Although we have been contracted out to do work outside of the scope of web development, we mainly:
+Central to our work is web development, where we mainly:
 
 -  Develop new web applications for clients.
 -  Modify existing web applications to meet client needs.
 -  Maintain the platforms our applications are hosted on.
+-  Integrate web apps with third party applications.
 
 ---
 
