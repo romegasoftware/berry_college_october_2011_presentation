@@ -43,4 +43,41 @@ Began working for SAI Digital in August 2011.
 
 
 
+---
 
+Projects
+========
+
+A project lifecycle looks something like this:
+
+-  Client makes request.
+-  Meet with client. Gather requirements for application.
+-  Give and release quote.
+-  Build.
+-  Deploy.
+
+
+---
+
+Projects - Client makes request
+===============================
+
+---
+
+Projects - Meet with client
+===========================
+
+---
+
+Projects - Give and release quote
+=================================
+
+---
+
+Projects - Build
+================
+
+---
+
+Projects - Deploy
+=================
