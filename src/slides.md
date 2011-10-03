@@ -62,27 +62,50 @@ A project lifecycle looks something like this:
 Projects - Client makes request
 ===============================
 
+Our clients fill out a "ClientDiscovery" form which details what the client needs.
 
 ---
 
 Projects - Meet with client
 ===========================
 
+A meeting is scheduled with the client. We discuss the ClientDiscovery form and
+"flesh out" the product from what the client needs.
+
 ---
 
 Projects - Give and release quote
 =================================
+
+Based on the notes from the meeting and the ClientDiscovery form, a quote is given.
+
+The features based from our meeting and the ClientDiscovery form are itemized.
+
+Usually, what the client asks for is similar to something we have done in the past, and we base our hourly estimates off of that.
 
 ---
 
 Projects - Build
 ================
 
+After the quote is released, the designers build mockups. The mockups are then approved by the client.
+
+After a mockup is approved, the developers construct a template from the mockups.
+
+Features requiring development work are implemented.
+
+After most features are complete, the product is demoed for the client.
+
 ---
 
 Projects - Deploy
 =================
 
+After a project is finished and the client is satisfied, the project is deployed.
+
+We generally deploy the product on a RackSpace cloud host.
+
 ---
 
 Technology
+==========
