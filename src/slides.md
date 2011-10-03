@@ -62,6 +62,7 @@ A project lifecycle looks something like this:
 Projects - Client makes request
 ===============================
 
+
 ---
 
 Projects - Meet with client
@@ -81,3 +82,7 @@ Projects - Build
 
 Projects - Deploy
 =================
+
+---
+
+Technology
