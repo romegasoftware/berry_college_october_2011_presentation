@@ -26,6 +26,10 @@ Central to our work is web development, where we mainly:
 -  Maintain the platforms our applications are hosted on.
 -  Integrate web apps with third party applications.
 
+In addition to web development, we offer a suite of data-driven services including email marketing, social media strategies, digital advertising, and search engine optimization. Developers must build with an awareness of these tools and strategies.
+
+We also have development projects based on new ideas or solutions created internally that are sold worldwide.
+
 ---
 
 Our Backgrounds
@@ -162,3 +166,33 @@ After a project is finished and the client is satisfied, the project is deployed
 
 We generally deploy the product on a RackSpace cloud host.
 
+---
+
+Want To Work For Us?
+====================
+
+---
+
+Benefits
+========
+
+-  We're located in downtown Rome.
+-  Young, enthusiastic team.
+-  We have access to variety of development tools.
+-  We use a variety of projects, languages, etc.
+-  Unlimited snacks (seriously).
+-  Bi-weekely Magic Finger Friday.
+-  If full time, comprehensive health benefits.
+
+---
+
+Who Are We Looking For?
+=======================
+
+Obviously, write good code and adhere to modern web standards and security protocol, but in addition:
+
+-  Comfortable in fast-paced, deadline-driven, team-based environment.
+-  Competent writer and communicator to variety of audiences.
+-  Work with artists and designers positively.
+-  Self-motivated.
+-  Up for any challenge.
