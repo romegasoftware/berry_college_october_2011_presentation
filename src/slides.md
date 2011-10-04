@@ -195,8 +195,10 @@ We generally deploy the product on a RackSpace cloud host.
 
 ---
 
-Want To Work For Us?
-====================
+Want To Intern For Us?
+======================
+
+![Potential Intern's Desk](images/intern.png)
 
 ---
 
