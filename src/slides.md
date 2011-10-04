@@ -37,6 +37,12 @@ Our Backgrounds
 
 ##Richard
 
+Graduated from Berry College with a degree in Physics in Fall 2008.
+
+Currently pursuing a degree in Electrical Engineering at Georgia Tech.
+
+Began working for SAI Digital in 2009. Was the first full-time developer.
+
 ##Sean
 
 Graduated from Berry College with a degree in Computer Science in Spring 2009
