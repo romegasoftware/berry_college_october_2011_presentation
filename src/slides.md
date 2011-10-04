@@ -120,6 +120,7 @@ A project lifecycle looks something like this:
 -  Client makes request.
 -  Meet with client. Gather requirements for application.
 -  Give and release quote.
+-  Agreement signing.
 -  Build.
 -  Deploy.
 
@@ -130,6 +131,13 @@ Projects - Client makes request
 ===============================
 
 Our clients fill out a "ClientDiscovery" form which details what the client needs.
+
+---
+
+Projects - ClientDiscovery Example
+=======================================
+
+<iframe src="http://docs.google.com/viewer?url=http%3A%2F%2Fdl.dropbox.com%2Fu%2F1720529%2FClientDiscoveryForm-writable.pdf&embedded=true" width="825" height="575" style="border: none;"></iframe>
 
 ---
 
@@ -146,9 +154,22 @@ Projects - Give and release quote
 
 Based on the notes from the meeting and the ClientDiscovery form, a quote is given.
 
-The features based from our meeting and the ClientDiscovery form are itemized.
-
 Usually, what the client asks for is similar to something we have done in the past, and we base our hourly estimates off of that.
+
+---
+
+
+Projects - An Example Quote
+===========================
+
+<iframe src="http://docs.google.com/viewer?url=http%3A%2F%2Fdl.dropbox.com%2Fu%2F1720529%2FAIBNAQuote.pdf&embedded=true" width="825" height="575" style="border: none;"></iframe>
+
+---
+
+Projects - Agreement Signing
+============================
+
+<iframe src="http://docs.google.com/viewer?url=http%3A%2F%2Fdl.dropbox.com%2Fu%2F1720529%2FWebAgreementTemplate.pdf&embedded=true" width="825" height="575" style="border: none;"></iframe>
 
 ---
 
