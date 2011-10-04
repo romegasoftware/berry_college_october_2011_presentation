@@ -181,7 +181,7 @@ Benefits
 -  We have access to variety of development tools.
 -  We use a variety of projects, languages, etc.
 -  Unlimited snacks (seriously).
--  Bi-weekely Magic Finger Friday.
+-  Bi-weekly Magic Finger Friday.
 -  If full time, comprehensive health benefits.
 
 ---
